@@ -1,0 +1,7 @@
+{
+  "nrf-connect.topdir": "c:\\ncs\\v2.0.2",
+  "nrf-connect.toolchain.path": "c:\\ncs\\toolchains\\v2.0.2",
+  "nrf-connect.applications": [
+    "d:\\nrf5340dk\\blinky_test"
+  ]
+}
